@@ -1,5 +1,7 @@
 # FinQuest
 Ignition Hacks V7 Hackathon
+Theme: Fintech
+Competing for tracks: Regular track, Base44, ElevenLabs
 # FinQuest Financial Literacy Platform & Simulator
 
 > A dual-core web application that teaches personal finance two ways: an **interactive learning platform** that breaks down core financial concepts into bite-sized, gamified lessons, and a **decision-driven life simulator** where players apply those principles across a lifetime of high-stakes choices.
