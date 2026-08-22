@@ -3,14 +3,14 @@
         {
             "id": 1.1,
             "title": "The 50/30/20 Rule & Cash Flow Mechanics",
-            "aiScript": "My paycheck disappears way too fast. Help me split this money into Needs, Wants, and Savings so I can get control of my spending!",
+            "audioPath": "\\backend\\audio\\1.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is the 50/30/20 Rule?",
                     "body": "The 50/30/20 rule is a simple budgeting framework that divides your take-home pay into three clear categories as soon as you get paid. Allocate 50% to Needs (essential bills like rent, groceries, and utilities), 30% to Wants (discretionary spending like dining out and entertainment), and 20% to Savings & Debt (emergency funds, investments, and debt paydown). Front-loading these allocations ensures your obligations are met and your future is funded before you spend on fun.",
                     "analogy": "Think of your paycheck like building a custom 10-slice pizza using three distinct slice types: Dinner Slices (Needs), Dessert Slices (Wants), and Frozen Slices (Savings). To balance your pizza, you choose 5 Dinner slices for core nourishment, 3 Dessert slices for fun, and 2 Frozen slices placed straight into the freezer for lunch tomorrow. If you get greedy and order 7 Dessert slices instead, you lose Dinner and Frozen slices. You might enjoy the Dessert slices in the moment, but you're left wiothout real nourishment and potentially nothing for lunch the next day.",
-                    "aiScript": "Welcome to the 50/30/20 rule! Let's break down how dividing your income into three clear buckets takes the guesswork out of budgeting."
+                    "audioPath": "\\backend\\audio\\1.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -21,7 +21,7 @@
                     "negativeChoice": "Spend freely on wants first and save whatever is left over at the end of the month",
                     "negativeText": "You spend $1,200 on dining out, shopping, and entertainment over two weeks. After paying $1,000 in required bills, you run a $200 deficit and transfer $0 into savings.",
                     "lesson": "Following the 50/30/20 rule saves you $400 every pay period while completely eliminating overspending stress.",
-                    "aiScript": "Payday is here! Will you divide your income into clear buckets right away, or spend first and hope there's money left over? Let's make a choice."
+                    "audioPath": "\\backend\\audio\\1.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -80,27 +80,27 @@
                             "correctCat": 3
                         }
                     ],
-                    "aiScript": "Ready to test your instincts? Drag each expense into Needs, Wants, or Savings."
+                    "audioPath": "\\backend\\audio\\1.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "You've mastered the core mechanics of the 50/30/20 rule! By splitting your income into Needs (50%), Wants (30%), and Savings (20%), you build a sustainable budget that covers daily essentials while funding future goals. Remember, front-loading your savings on payday ensures your obligations are met before discretionary spending begins.",
-                    "aiScript": "Awesome job completing Lesson 1! Just remember the 10-slice pizza: lock in 5 slices for needs, 3 for wants, and slide 2 straight into the freezer for savings. Next up, we’ll look at how to protect those savings with an emergency fund."
+                    "audioPath": "\\backend\\audio\\1.4.mp3"
                 }
             ]
         },
         {
             "id": 1.2,
             "title": "Pay Yourself First & The Emergency Fund",
-            "aiScript": "An unexpected $600 repair bill just hit. Let's see if having a dedicated emergency fund saves me from going into credit card debt.",
+            "audioPath": "\\backend\\audio\\2.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is an Emergency Fund?",
                     "body": "Traditional budgeting saves whatever is left over at the end of the month—which is often nothing. \"Pay Yourself First\" flips this by automatically transferring money into savings as soon as your paycheck hits. This money builds an Emergency Fund: a cash cushion covering 3 to 6 months of living expenses. Its primary purpose isn't wealth generation, but protecting you from high-interest debt when unexpected costs like medical bills, job losses, or car repairs happen.",
                     "analogy": "Think of your Emergency Fund like a power bank. You charge it overnight and bring it with you the next day. When your phone battery unexpectedly gets drained by a task, you don't have to panic or struggle to find a charger since you have your power bank with you for this exact situation.",
-                    "aiScript": "Life loves to drain your battery when you least expect it. Let's look at why building an emergency fund acts as your personal financial power bank when unexpected costs hit."
+                    "audioPath": "\\backend\\audio\\2.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -111,7 +111,7 @@
                     "negativeChoice": "Put the $800 repair on a high-interest credit card",
                     "negativeText": "You charge $800 to your credit card. Making only minimum payments over a year adds $160 in interest charges, turning an $800 repair into a $960 headache.",
                     "lesson": "Using a dedicated emergency fund saves you $160 in interest and protects your monthly budget from collapse",
-                    "aiScript": "Your car just broke down with an $800 repair bill. Do you tap your emergency power bank, or pull out a high-interest credit card?"
+                    "audioPath": "\\backend\\audio\\2.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -133,27 +133,27 @@
                             "response": "Ouch... At 24% APR, paying minimums means that $600 repair will actually cost you over $1,200 total!"
                         }
                     ],
-                    "aiScript": "Sam needs answers! Handle the alternator repair with cash or credit."
+                    "audioPath": "\\backend\\audio\\2.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Automating your savings turns good intentions into guaranteed financial security. Treating your emergency fund like a portable power bank ensures you can absorb sudden expenses—like unexpected repairs or medical bills—without relying on high-interest credit cards. Aim to build 3 to 6 months of living expenses in a liquid account so you are always powered up before life's sudden drains happen.",
-                    "aiScript": "That wraps up Lesson 2! Keeping your power bank charged means you never have to panic when life drains your wallet. Up next, we'll dive into opportunity cost and how to spot the hidden price tags on everyday purchases."
+                    "audioPath": "\\backend\\audio\\2.4.mp3"
                 }
             ]
         },
         {
             "id": 1.3,
             "title": "Opportunity Cost & The 'True Cost' of Purchases",
-            "aiScript": "I want this $1,000 phone today, but what if I invested that money for five years instead? Let's compare the true cost.",
+            "audioPath": "\\backend\\audio\\3.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is Opportunity Cost?",
                     "body": "Every purchase costs more than the sticker price—it costs what that money could have earned if used elsewhere. Opportunity cost measures the value of the next best alternative you sacrificed. Spending $1,000 on a phone today doesn't just cost $1,000 cash; it costs the $2,100 that money could have grown into over ten years if invested. Recognizing this trade-off helps curb impulse buys and prioritizes long-term financial goals over temporary satisfaction.",
                     "analogy": "Think of it as a fork in the road. The left path leads to a shopping spree and the right to a weekend trip with your friends. Choosing the shopping spree means that you can no longer go on the weekend trip, making the trip the oppurtunity cost of the shopping spree.",
-                    "aiScript": "Every dollar you spend actually has two price tags: today's cash price, and tomorrow's lost investment returns. Let's explore opportunity cost."
+                    "audioPath": "\\backend\\audio\\3.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -164,7 +164,7 @@
                     "negativeChoice": "Buy the $1,200 smartphone today for instant gratification",
                     "negativeText": "You buy the phone. In 3 years, the phone's resale value drops to under $200, resulting in a net loss of over $1,000 in equity and over $1,100 in lost investment growth.",
                     "lesson": "Considering opportunity cost yields a net gain of over $2,160 in long-term value compared to making the impulse buy.",
-                    "aiScript": "A flashy new phone is calling your name. Will you buy it today, or invest that $1,200 to watch it double over the next decade?"
+                    "audioPath": "\\backend\\audio\\3.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -176,27 +176,27 @@
                     "option2": "Brew Coffee at Home ($50/mo) & Invest $100/mo",
                     "correct": 2,
                     "explanation": "Small daily costs build up negatively. Redirecting those costs into investments will guarentee wealth over time.",
-                    "aiScript": "Compare immediate spending versus compound growth on daily expenses."
+                    "audioPath": "\\backend\\audio\\3.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Every dollar spent today carries a hidden trade-off—the lost compounding returns it could have generated over time. By calculating the true cost of purchases, you train your brain to weigh immediate gratification against long-term freedom. Recognizing opportunity cost isn't about eliminating fun spending; it's about making conscious choices so your future self isn't paying for today's impulse buys.",
-                    "aiScript": "Great work on Lesson 3! Next time you're about to make an impulse buy, ask yourself what that money could grow into down the road."
+                    "audioPath": "\\backend\\audio\\3.4.mp3"
                 }
             ]
         },
         {
             "id": 2.1,
             "title": "Credit Score Anatomy & The Credit Trap",
-            "aiScript": "I just got my first credit card. Let's see what happens to my credit score if I pay the full balance versus paying only the minimum.",
+            "audioPath": "\\backend\\audio\\4.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is a Credit Score?",
                     "body": "A credit score is a 3-digit number (300–850) that tells lenders how reliably you repay debt. It measures financial trustworthiness, not wealth. Your score relies on five key factors: Payment History (on-time payments), Credit Utilization (percentage of available credit used), Length of Credit History, Types of Credit, and New Credit Inquiries. A higher score unlocks lower interest rates, saving you thousands on loans and mortgages.",
                     "analogy": "Think of a credit score like a GPA. One bad grade (Late payment) lowers it quickly, while rebuilding it takes consistent, long-term effort by getting good grades (On time payments). Universities review your GPA to decide if they should admit you just like how lenders review your credit score to determine if you qualify for the best financial terms.",
-                    "aiScript": "Your credit score is the financial world's trust metric. Let's unpack the core ingredients that raise or lower those three crucial digits."
+                    "audioPath": "\\backend\\audio\\4.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -207,7 +207,7 @@
                     "negativeChoice": "Pay only the minimum balance of $100 and keep your utilization high at 80%",
                     "negativeText": "High utilization drags your credit score down by 50 points. Lenders classify you as high-risk, costing you higher interest rates on every future loan you take.",
                     "lesson": "Keeping utilization low boosts your score by up to 95 points compared to carrying high balances, saving thousands on future credit.",
-                    "aiScript": "Your credit card balance is sitting at 80% of your limit. Do you pay it down to boost your score, or pay the bare minimum?"
+                    "audioPath": "\\backend\\audio\\4.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -244,27 +244,27 @@
                             "text3": "Keeping credit utilization under 10% signals excellent management and triggers maximum score gains."
                         }
                     ],
-                    "aiScript": "Test both gauges! Gauge 1 shows payment size impact, while Gauge 2 shows how keeping overall balances low boosts credit scores."
+                    "audioPath": "\\backend\\audio\\4.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Your credit score is the financial world's metric for trustworthiness. Maintained primarily through on-time payments and low credit utilization, a strong score unlocks lower interest rates on major loans, saving you thousands of dollars over a lifetime. Avoid treating available credit like extra income, and focus on building a consistent, long-term track record of responsible repayment.",
-                    "aiScript": "Lesson 1 complete! Think of your credit score like a financial GPA—keep utilization low, pay on time, and build high trust. Up next, we'll demystify interest rates and break down the difference between APY and APR."
+                    "audioPath": "\\backend\\audio\\4.4.mp3"
                 }
             ]
         },
         {
             "id": 2.2,
             "title": "Interest Rates: APY vs. APR",
-            "aiScript": "I need to sort out these banking terms. Help me match these accounts so I earn high APY on savings and pay low APR on loans.",
+            "audioPath": "\\backend\\audio\\5.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is the difference between APY and APR?",
                     "body": "Interest dictates the cost of money over time, split into two main types: APY and APR. APY (Annual Percentage Yield) is the percentage you EARN on savings and investments—higher APY means more money growing in your account through compounding. APR (Annual Percentage Rate) is the percentage you PAY on debt like credit cards and loans—higher APR means borrowing costs you more out of pocket. To optimize your finances, maximize APY on savings and minimize APR on loans.",
                     "analogy": "Think of APY like a hose pumping water into your pool (you want high flow). While APR is a leak draining water out of your pool (you want the leak as small as possible).",
-                    "aiScript": "Interest is a two-way street. Let's master the difference between APY—where the banks pay you—and APR—where you pay the banks."
+                    "audioPath": "\\backend\\audio\\5.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -275,7 +275,7 @@
                     "negativeChoice": "Leave the $5,000 in a traditional brick-and-mortar savings account earning 0.01% APY",
                     "negativeText": "Your account earns just $0.50 in interest over the entire year.",
                     "lesson": "Choosing a high APY account earns you an extra $224.50 per year on the exact same deposit with zero added risk.",
-                    "aiScript": "Where does your $5,000 cash sit? Let's choose between a high-yield account that pays you $225, or a traditional bank that pays pennies."
+                    "audioPath": "\\backend\\audio\\5.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -287,27 +287,27 @@
                     "option2": "Credit Card Purchase (22.0% APR Rate)",
                     "correct": 1,
                     "explanation": "APR is the cost of borrowing money. A lower APR saves you thousands in finance charges.",
-                    "aiScript": "Choose the right answer! Remember higher APY earns you more on savings, while lower APR saves you money on borrowing."
+                    "audioPath": "\\backend\\audio\\5.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Interest works as a two-way street depending on which side of the table you sit on. APY represents the compounding growth earned on your savings, while APR represents the cost paid on borrowed debt. To maximize your financial growth, seek out high APY accounts for your emergency fund and eliminate high APR debt as quickly as possible.",
-                    "aiScript": "Nice job wrapping up Lesson 2! Just remember: high APY is the hose filling your pool, and high APR is the leak draining it."
+                    "audioPath": "\\backend\\audio\\5.4.mp3"
                 }
             ]
         },
         {
             "id": 3.1,
             "title": "Compound Interest: The 8th Wonder of the World",
-            "aiScript": "Is starting to invest at age 20 really better than starting at 30 if we save the same amount? Let's check the numbers.",
+            "audioPath": "\\backend\\audio\\6.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is Compound Interest?",
                     "body": "Simple interest pays returns only on your initial investment. Compound interest pays returns on your initial investment plus all accumulated interest from previous periods. While early growth feels slow due to small balances, compound growth accelerates over time as gains accumulate. Over decades, compounding allows modest regular contributions to grow exponentially.",
                     "analogy": "Compounding works like rolling a snowball down a long, snowy hill. It starts small, but gathers layers of snow that pick up even more snow, rapidly growing into an avalanche by the time it reaches the bottom.",
-                    "aiScript": "Compound interest is the snowball effect applied directly to your wealth. Let's see how money multiplies over time."
+                    "audioPath": "\\backend\\audio\\6.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -318,7 +318,7 @@
                     "negativeChoice": "Delay investing and wait until age 35 to start putting away $200/month",
                     "negativeText": "By waiting until 35, your out-of-pocket contribution of $72,000 only grows to roughly $300,000 by age 65 due to losing 10 critical years of compounding.",
                     "lesson": "Starting 10 years earlier creates an extra $398,000 in wealth while only requiring $24,000 more in actual out-of-pocket contributions.",
-                    "aiScript": "Time is your biggest wealth multiplier. Will you start investing $200 a month today, or wait ten years and lose out on hundreds of thousands?"
+                    "audioPath": "\\backend\\audio\\6.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -361,27 +361,27 @@
                             "text": "Year 30: Explosive Phase. Over 70% of total wealth ($201,000) is pure compound interest!"
                         }
                     ],
-                    "aiScript": "Drag the slider through all 6 milestones up to Year 30. Watch how compound interest starts slow and ends explosive!"
+                    "audioPath": "\\backend\\audio\\6.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Compound interest is the primary engine of long-term wealth building, earning returns on both your principal and past earnings. While early growth can appear modest, time acts as a multiplier, causing exponential gains over several decades. The most critical factor in compounding isn't timing the market or picking perfect stocks—it's starting as early as possible to let time do the heavy lifting.",
-                    "aiScript": "You've mastered Lesson 1! Compounding is all about letting that snowball roll down a long, snowy hill. Up next, we’ll explore index funds and diversification so you can invest safely across the entire market."
+                    "audioPath": "\\backend\\audio\\6.4.mp3"
                 }
             ]
         },
         {
             "id": 3.2,
             "title": "Index Funds, ETFs & Diversification",
-            "aiScript": "Putting all my money in one stock feels risky. Let's build a portfolio and simulate a market crash to see how diversification protects us.",
+            "audioPath": "\\backend\\audio\\7.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What are Index Funds and Diversification?",
                     "body": "Buying stock in a single company exposes you to high risk if that business fails. Diversification lowers risk by spreading investments across hundreds of companies and sectors. An Index Fund (or ETF) is a basket that lets you buy small pieces of hundreds of companies—like the S&P 500—in one transaction. Instead of picking individual winning stocks, index funds let you invest in the growth of the overall market.",
                     "analogy": "Carrying a single egg on a tray is risky. If you drop the tray, the egg breaks. Diversification is placing 500 eggs into a padded carton. That way even if one cracks, the rest remain safe.",
-                    "aiScript": "Don't bet your financial future on picking a single winning stock. Let's discover how index funds make broad diversification easy."
+                    "audioPath": "\\backend\\audio\\7.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -392,7 +392,7 @@
                     "negativeChoice": "Invest $1,000 into a single hyped tech stock you saw on social media",
                     "negativeText": "The single company misses earnings expectations and its stock plunges by 40%, instantly wiping out $400 of your hard-earned capital.",
                     "lesson": "Choosing a diversified index fund protects you from losing $400 during market volatility while matching total economic growth.",
-                    "aiScript": "Ready to invest $1,000? Do you bet it all on one hot stock, or spread the risk across 500 major companies using an index fund?"
+                    "audioPath": "\\backend\\audio\\7.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -447,27 +447,27 @@
                             "correctCat": 2
                         }
                     ],
-                    "aiScript": "Drag all 6 assets into Single Stocks or Diversified Index Funds. Diversification protects against sudden company bankruptcies!"
+                    "audioPath": "\\backend\\audio\\7.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Stock picking exposes your capital to unnecessary single-company risk. Index funds and ETFs eliminate this bottleneck by automatically spreading your investment across hundreds of companies in a single transaction. Capturing broad market growth through low-cost funds allows you to build steady, diversified wealth without needing to predict individual winners or losers.",
-                    "aiScript": "Awesome job on Lesson 2! Don't carry one single egg on a tray—use an index fund to buy the whole carton. Up next, we’ll see how inflation impacts your money and how investing keeps your buying power safe."
+                    "audioPath": "\\backend\\audio\\7.4.mp3"
                 }
             ]
         },
         {
             "id": 3.3,
             "title": "Inflation & Purchasing Power",
-            "aiScript": "Is keeping cash in a savings account actually safe? Let's run a simulation to see what inflation does to our buying power over 15 years.",
+            "audioPath": "\\backend\\audio\\8.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is Inflation and Purchasing Power?",
                     "body": "Inflation is the general increase in prices across the economy over time, which reduces your Purchasing Power. This means that a dollar buys less tomorrow than it does today. Cash left uninvested keeps its numerical value but loses actual buying power. To prevent savings from eroding, investments must yield returns higher than the current rate of inflation.",
                     "analogy": "Inflation is like walking up the wrong escalator. Standing still (holding cash) moves you backward. To stay in place, you must walk at the same speed of the escalator. To gain ground, you must move faster than the escalator (outpace inflation with returns).",
-                    "aiScript": "Uninvested cash quietly loses value every year. Let's see how inflation erodes purchasing power and how you can stay ahead of it."
+                    "audioPath": "\\backend\\audio\\8.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -478,7 +478,7 @@
                     "negativeChoice": "Hold the $10,000 in a zero-interest chequing account for 5 years",
                     "negativeText": "Your cash balance stays at $10,000 on paper, but inflation erodes its buying power to just $8,400 in today's dollars—a real loss of $1,600 in value.",
                     "lesson": "Investing outpaces inflation, generating a real purchasing power gain of $3,400 over holding uninvested cash.",
-                    "aiScript": "Inflation quietly shrinks what a dollar can buy. Will you invest your $10,000 to outpace price rises, or watch it lose purchasing power in a chequing account?"
+                    "audioPath": "\\backend\\audio\\8.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -521,27 +521,27 @@
                             "text": "Year 30: Uninvested cash loses 64% purchasing power. Invested capital multiplies over 7x!"
                         }
                     ],
-                    "aiScript": "Check out the future and slide all the way out to 30 years!"
+                    "audioPath": "\\backend\\audio\\8.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Inflation quietly reduces what your cash can purchase over time. Holding too much money in low-yield bank accounts causes your actual buying power to decline, even as the dollar figure remains unchanged. To protect your long-term wealth, ensure your primary savings and investments generate returns that outpace the prevailing rate of inflation.",
-                    "aiScript": "Lesson 3 complete! Remember, sitting on cash is like standing still on the wrong escalator."
+                    "audioPath": "\\backend\\audio\\8.4.mp3"
                 }
             ]
         },
         {
             "id": 4.1,
             "title": "Group RRSP Matching & Free Money",
-            "aiScript": "My job offers a 5% RRSP match. Let's calculate the exact contribution needed so I don't leave free employer money on the table.",
+            "audioPath": "\\backend\\audio\\9.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is Group RRSP Matching?",
                     "body": "A Group RRSP (or DPSP) Match is a workplace benefit where your employer matches your retirement contributions dollar-for-dollar up to a set percentage of your salary (e.g., a 100% match up to 5%). This contribution provides an instant, guaranteed 100% return on your investment before market gains even occur. Additionally, contributions to a Group RRSP are deducted directly from your gross pay, immediately reducing your taxable income on every paycheck. Failing to contribute enough to collect the full match is turning down part of your total compensation package.",
                     "analogy": "Picture your boss offering: \"For every $100 you deposit into your Group RRSP, I will add another $100 up to five times.\" Refusing to contribute leaves earned money on the table.",
-                    "aiScript": "Group RRSP matching is the closest thing to guaranteed free money in personal finance. Let me show you how to claim every dollar you earned."
+                    "audioPath": "\\backend\\audio\\9.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -552,7 +552,7 @@
                     "negativeChoice": "Skip the workplace plan to keep maximum cash in your paycheque",
                     "negativeText": "You keep your $3,000 in cash, but completely forfeit the $3,000 employer match, effectively rejecting a 5% raise on your salary.",
                     "lesson": "Contributing to get the full match nets you $3,000 in free money every single year compared to skipping the program.",
-                    "aiScript": "Your job offers to match your retirement savings up to $3,000 a year. Do you claim your free money, or leave it on the table?"
+                    "audioPath": "\\backend\\audio\\9.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -574,27 +574,27 @@
                             "response": "Awesome choice! You put in $2,500, and we instantly add $2,500. That's $5,000 total into your account!"
                         }
                     ],
-                    "aiScript": "Jordan needs choices for both your starting match and how you handle your first annual raise!"
+                    "audioPath": "\\backend\\audio\\9.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "A Group RRSP or DPSP match represents a guaranteed 100% return on your money before any market performance is factored in. Furthermore, contributions reduce your taxable income right at the source on every paycheque. Capturing the full employer match should always take priority in your investment stack to avoid leaving part of your total salary package on the table.",
-                    "aiScript": "Great work on Lesson 1! Never leave free money on the table when your employer offers an RRSP match. Up next in our final lesson, we’ll break down taxes and how Gross salary becomes Net take-home pay."
+                    "audioPath": "\\backend\\audio\\9.4.mp3"
                 }
             ]
         },
         {
             "id": 4.2,
             "title": "Taxes & Net vs. Gross Income",
-            "aiScript": "My paycheck is lower than my salary calculation promised. Help me break down this pay stub to see where taxes and deductions went.",
+            "audioPath": "\\backend\\audio\\10.0.mp3",
             "steps":[
                 {
                     "stepNumber": 1,
                     "heading": "What is the difference between Gross and Net Income?",
                     "body": "Gross Income is your total salary on paper before any deductions. Net Income (take-home pay) is the actual cash deposited into your bank account on payday. Before you receive your paycheque, mandatory payroll deductions are subtracted at source: Federal and Provincial Income Taxes, Canada Pension Plan (CPP) (or QPP in Quebec), and Employment Insurance (EI). Optional workplace benefits such as health insurance or Group RRSP contributions further reduce your gross total. Budgeting based on Gross income leads to overspending; always build financial plans using your true Net take-home pay.",
                     "analogy": "Think of it as ordering a 10-slice pizza (Gross Income), but the delivery driver takes 2 slices for gas money (Income Tax) and 1 slice for road insurance (CPP & EI) before delivery. You only have 7 slices left to eat (Net Income), so you cannot plan dinner around having 10 slices.",
-                    "aiScript": "Paper salary isn't spendable cash. Let's break down how taxes, CPP, and EI convert your Gross income into actual Net take-home pay."
+                    "audioPath": "\\backend\\audio\\10.1.mp3"
                 },
                 {
                     "stepNumber": 2,
@@ -605,7 +605,7 @@
                     "negativeChoice": "Sign a lease and commitment obligations based on your Gross monthly pay of $5,000/month",
                     "negativeText": "You commit to $2,500 in rent and bills thinking you make $5,000. After $1,250 in mandatory tax, CPP, and EI deductions, you are left with just $0 for food, savings, or fun.",
                     "lesson": "Budgeting with Net income prevents a $1,250 monthly cash flow deficit caused by ignoring source tax deductions.",
-                    "aiScript": "You just got a job paying $60,000 a year! Do you build your monthly budget using your paper salary, or your actual take-home pay after tax deductions?"
+                    "audioPath": "\\backend\\audio\\10.2.mp3"
                 },
                 {
                     "stepNumber": 3,
@@ -642,13 +642,13 @@
                             "text3": "Higher earning tiers pay higher marginal percentages on additional dollars."
                         }
                     ],
-                    "aiScript": "Explore both gauges! Gauge 1 tracks actual cash take-home pay, while Gauge 2 reveals how progressive tax brackets work."
+                    "audioPath": "\\backend\\audio\\10.3.mp3"
                 },
                 {
                     "stepNumber": 4,
                     "heading": "Recap & Key Takeaway",
                     "body": "Gross income is the baseline salary listed in your contract, but Net income is the actual liquidity available for your budget. Mandatory deductions—including Federal and Provincial Income Tax, CPP, and EI—reduce your paycheque before it hits your account. Always base your 50/30/20 targets and monthly cash flow plans on true Net take-home pay to keep your financial plan grounded and balanced.",
-                    "aiScript": "Congratulations on completing the final lesson! Always plan your budget around your 7 slices of Net take-home pay, not the full 10-slice Gross salary. You now have the core tools to master your personal finances!"
+                    "audioPath": "\\backend\\audio\\10.4.mp3"
                 }
             ]
         }
