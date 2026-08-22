@@ -3,6 +3,7 @@
         {
             "id": 1.1,
             "title": "The 50/30/20 Rule & Cash Flow Mechanics",
+            "aiScript": "My paycheck disappears way too fast. Help me split this money into Needs, Wants, and Savings so I can get control of my spending!",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -18,7 +19,7 @@
                     "positiveChoice": "Allocate using the 50/30/20 rule immediately",
                     "positiveText": "You immediately route $1,000 to core needs (rent/utilities), $600 for discretionary spending, and automatically transfer $400 straight to savings. Your essentials are fully covered, you enjoy your spending worry-free, and you bank $400 towards your future.",
                     "negativeChoice": "Spend freely on wants first and save whatever is left over at the end of the month",
-                    "negativeText": "ou spend $1,200 on dining out, shopping, and entertainment over two weeks. After paying $1,000 in required bills, you run a $200 deficit and transfer $0 into savings.",
+                    "negativeText": "You spend $1,200 on dining out, shopping, and entertainment over two weeks. After paying $1,000 in required bills, you run a $200 deficit and transfer $0 into savings.",
                     "lesson": "Following the 50/30/20 rule saves you $400 every pay period while completely eliminating overspending stress.",
                     "aiScript": "Payday is here! Will you divide your income into clear buckets right away, or spend first and hope there's money left over? Let's make a choice."
                 },
@@ -92,6 +93,7 @@
         {
             "id": 1.2,
             "title": "Pay Yourself First & The Emergency Fund",
+            "aiScript": "An unexpected $600 repair bill just hit. Let's see if having a dedicated emergency fund saves me from going into credit card debt.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -144,6 +146,7 @@
         {
             "id": 1.3,
             "title": "Opportunity Cost & The 'True Cost' of Purchases",
+            "aiScript": "I want this $1,000 phone today, but what if I invested that money for five years instead? Let's compare the true cost.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -186,6 +189,7 @@
         {
             "id": 2.1,
             "title": "Credit Score Anatomy & The Credit Trap",
+            "aiScript": "I just got my first credit card. Let's see what happens to my credit score if I pay the full balance versus paying only the minimum.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -253,6 +257,7 @@
         {
             "id": 2.2,
             "title": "Interest Rates: APY vs. APR",
+            "aiScript": "I need to sort out these banking terms. Help me match these accounts so I earn high APY on savings and pay low APR on loans.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -295,6 +300,7 @@
         {
             "id": 3.1,
             "title": "Compound Interest: The 8th Wonder of the World",
+            "aiScript": "Is starting to invest at age 20 really better than starting at 30 if we save the same amount? Let's check the numbers.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -368,6 +374,7 @@
         {
             "id": 3.2,
             "title": "Index Funds, ETFs & Diversification",
+            "aiScript": "Putting all my money in one stock feels risky. Let's build a portfolio and simulate a market crash to see how diversification protects us.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -453,6 +460,7 @@
         {
             "id": 3.3,
             "title": "Inflation & Purchasing Power",
+            "aiScript": "Is keeping cash in a savings account actually safe? Let's run a simulation to see what inflation does to our buying power over 15 years.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -526,6 +534,7 @@
         {
             "id": 4.1,
             "title": "Group RRSP Matching & Free Money",
+            "aiScript": "My job offers a 5% RRSP match. Let's calculate the exact contribution needed so I don't leave free employer money on the table.",
             "steps":[
                 {
                     "stepNumber": 1,
@@ -578,6 +587,7 @@
         {
             "id": 4.2,
             "title": "Taxes & Net vs. Gross Income",
+            "aiScript": "My paycheck is lower than my salary calculation promised. Help me break down this pay stub to see where taxes and deductions went.",
             "steps":[
                 {
                     "stepNumber": 1,
